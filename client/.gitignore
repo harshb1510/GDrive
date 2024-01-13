@@ -4,13 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
+/src/artifacts
 
 # testing
 /coverage
 
 # production
 /build
-/artifacts
 # misc
 .DS_Store
 .env.local
